@@ -43,6 +43,8 @@ PORT=1234 peerflix-server
 SET PORT=1234
 peerflix-server
 ```
+## Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 The application stores its current state (list of torrents) in `~/.config/peerflix-server/torrents.json`
 
